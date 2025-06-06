@@ -8,5 +8,9 @@ namespace ConsoleApp1
 {
     internal class NewClass
     {
+        static void FakeMethod()
+        {
+            
+        }
     }
 }
